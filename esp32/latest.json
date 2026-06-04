@@ -1,0 +1,9 @@
+{
+  "target": "GPB0075_HMI_CONTROLLER",
+  "chip": "esp32s3",
+  "hw_rev": "GPB0075",
+  "version": "0.1.1",
+  "url": "https://raw.githubusercontent.com/intec-xy/ota/gpb0075/esp32/latest.json",
+  "mandatory": false,
+  "notes": "First ESP32 GitHub OTA test"
+}

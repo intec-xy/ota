@@ -4,8 +4,8 @@
   "flash": {
     "version": "1.0.0",
     "url": "https://raw.githubusercontent.com/intec-xy/ota/gpb0075/lt7689/UartTFT-II_Flash_v1.0.0.bin",
-    "size": 4412472,
-    "sha256": "4d54d6505cb620c5096a98fbd2965b94c5b31b8925496ed0e83b93b852cb0779"
+    "size": 5180852,
+    "sha256": "53c5d9ce521be9f341fb909d20909f986aae6176662292b33e6a1e872c36d079"
   },
   "mcu": {
     "version": "1.0.0",

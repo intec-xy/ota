@@ -3,7 +3,7 @@
   "channel": "stable",
   "project": "GPB0096",
   "board": "SCH0096P_R1",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "supported_display_models": [
     "DEPG0579RYS683F15HP",
     "DEPG1248RWU790F5"

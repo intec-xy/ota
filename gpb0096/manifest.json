@@ -1,1 +1,17 @@
-
+{
+  "schema_version": 1,
+  "channel": "stable",
+  "project": "GPB0096",
+  "board": "SCH0096P_R1",
+  "version": "0.8.0",
+  "supported_display_models": [
+    "DEPG0579RYS683F15HP",
+    "DEPG1248RWU790F5"
+  ],
+  "firmware": {
+    "url": "https://raw.githubusercontent.com/intec-xy/ota/gpb0075/gpb0096/releases/0.8.0/firmware.bin",
+    "size": 1590560,
+    "sha256": "de51c0748bb5427b759dfef49ab1df9fff5b31f8db8e51c2c8ac86ddf79703c6"
+  },
+  "release_notes": "Phase 8 production GitHub OTA support."
+}

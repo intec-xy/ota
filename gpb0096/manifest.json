@@ -9,7 +9,7 @@
     "DEPG1248RWU790F5"
   ],
   "firmware": {
-    "url": "https://raw.githubusercontent.com/intec-xy/ota/gpb0075/gpb0096/releases/0.8.0/firmware.bin",
+    "url": "https://raw.githubusercontent.com/intec-xy/ota/gpb0075/gpb0096/releases/0.8.1/firmware.bin",
     "size": 1590560,
     "sha256": "5c5d1f3efc9e097d13f016bb5d19df22d270c3b277c82ef7890b581e79b3fb86"
   },

@@ -3,15 +3,15 @@
   "channel": "stable",
   "project": "GPB0096",
   "board": "SCH0096P_R1",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "supported_display_models": [
     "DEPG0579RYS683F15HP",
     "DEPG1248RWU790F5"
   ],
   "firmware": {
-    "url": "https://raw.githubusercontent.com/intec-xy/ota/gpb0075/gpb0096/releases/0.8.1/firmware.bin",
-    "size": 1590560,
-    "sha256": "5c5d1f3efc9e097d13f016bb5d19df22d270c3b277c82ef7890b581e79b3fb86"
+    "url": "https://raw.githubusercontent.com/intec-xy/ota/gpb0075/gpb0096/releases/0.8.2/firmware.bin",
+    "size": 1595840,
+    "sha256": "9435ddcf95893b5d42cd42d36e04d70e4f0eb644448f0b44d834f2f950a03737"
   },
-  "release_notes": "Phase 8 OTA hardware validation release."
+  "release_notes": "Phase 8.2 Firebase rules applied."
 }

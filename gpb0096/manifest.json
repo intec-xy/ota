@@ -3,15 +3,15 @@
   "channel": "stable",
   "project": "GPB0096",
   "board": "SCH0096P_R1",
-  "version": "0.8.3",
+  "version": "0.8.4",
   "supported_display_models": [
     "DEPG0579RYS683F15HP",
     "DEPG1248RWU790F5"
   ],
   "firmware": {
-    "url": "https://raw.githubusercontent.com/intec-xy/ota/gpb0075/gpb0096/releases/0.8.3/firmware.bin",
-    "size": 1600640,
-    "sha256": "238524eb0ae93bb4c3e076353efeb52749d0c603e3670f67f1a90fb9fbc57414"
+    "url": "https://raw.githubusercontent.com/intec-xy/ota/gpb0075/gpb0096/releases/0.8.4/firmware.bin",
+    "size": 1600688,
+    "sha256": "78937d0556515db4b3d04f63a3a8afe5da3c9d7c0f14271727d1f87f172ca701"
   },
   "release_notes": "NIL"
 }
